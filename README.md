@@ -22,6 +22,8 @@ Did it like so:
 
 ## Find the country whose GDP has grown the most over time and plot the level of education on the x axis and the life expectancy on the y axis. Do the same thing for the country whose GDP has grown the least over time
 
+we chose USA because China only had one data point...
+
 ![](https://github.com/kasperpagh/databaseAss10/blob/master/imgs/Capture3.PNG)
 ![](https://github.com/kasperpagh/databaseAss10/blob/master/imgs/Capture4.PNG)
 ![](https://github.com/kasperpagh/databaseAss10/blob/master/imgs/Capture5.PNG)
